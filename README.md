@@ -52,3 +52,15 @@ This repository contains the implementation of a **Digital Logic Design 2-Bit Ca
 - **Description:** Displays the output of operations in decimal format.
 - **Circuit:** Refer to `7segment_circuit.png`
 
+
+## How It Works
+1. The calculator uses **ICs** like 7483 Full Adder and 7447 Decoder for implementing addition and display functions.
+2. Logical gates (AND, OR, NOT, XOR) are used for multiplication, subtraction, and power operations.
+3. Multiplexers (MUX) control signals and route outputs appropriately.
+4. Results are displayed using a 7-segment decoder.
+
+---
+
+## License
+This project is licensed under the MIT License. See the `LICENSE` file for details.
+
